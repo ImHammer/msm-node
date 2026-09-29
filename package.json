@@ -1,6 +1,6 @@
 {
   "name": "@imhammer/msm-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK oficial em Node.js para o MSM (Micro Server Monitor) Agent",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
