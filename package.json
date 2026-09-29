@@ -1,5 +1,5 @@
 {
-  "name": "msm-node",
+  "name": "@imhammer/msm-node",
   "version": "1.0.0",
   "description": "SDK oficial em Node.js para o MSM (Micro Server Monitor) Agent",
   "main": "dist/index.js",
@@ -31,13 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imhammer/msm.git",
-    "directory": "packages/msm-node"
+    "url": "git+https://github.com/imhammer/msm-node.git"
   },
   "bugs": {
-    "url": "https://github.com/imhammer/msm/issues"
+    "url": "https://github.com/imhammer/msm-node/issues"
   },
-  "homepage": "https://github.com/imhammer/msm#readme",
+  "homepage": "https://github.com/imhammer/msm-node#readme",
   "devDependencies": {
     "@types/node": "^20.11.0",
     "typescript": "^5.3.3"
